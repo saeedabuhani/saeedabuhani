@@ -1,76 +1,53 @@
-<h1 align="center">Hi, I'm Ahmed Adel  👋</h1>
-<h3 align="center">Flutter Developer 🧠 | Content Creator 🎥 | Founder of <a href="https://learrnsimply.com" target="_blank">Learn Simply</a> 📚</h3>
+<div align="center" width="50">
 
-<p align="center">
-  <a href="https://instagram.com/ahmed.aaddel"><img src="https://img.shields.io/badge/@ahmed.aaddel-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
-  <a href="https://linkedin.com/in/ahmed-adel-11bba6177"><img src="https://img.shields.io/badge/Ahmed%20Adel-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="https://www.youtube.com/@Learn_Simply/videos/?sub_confirmation=1"><img src="https://img.shields.io/badge/YouTube-Learn_Simply-FF0000?style=for-the-badge&logo=youtube&logoColor=white" /></a>
-  <a href="https://facebook.com/ahmed.learnsimply"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" /></a>
-  <a href="https://learrnsimply.com"><img src="https://img.shields.io/badge/Website-learrnsimply.com-blueviolet?style=for-the-badge&logo=google-chrome&logoColor=white" /></a>
-</p>
+<img src="https://github.com/SP-XD/SP-XD/blob/main/images/hellocoders_rounded.gif?raw=true" alt="Hello Coders" width="60%"/> <br>
+<img src="https://github.com/SP-XD/SP-XD/blob/main/images/dev-working_rounded.gif?raw=true" alt="Workspace" width="40%"/><br> 
 
----
+<h1>Hi 👋, I'm Saeed Abuhani</h1>
 
-<img src="https://media.giphy.com/media/3o7abKhOpu0NwenH3O/giphy.gif" width="100%" height="3px" />
+<h3>Software Engineering Student | Backend Development | Full Stack Development | GitHub Learner</h3>
 
-## 🚀 About Me
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=2500&pause=800&center=true&vCenter=true&width=700&lines=Software+Engineering+Student;Backend+%26+Full+Stack+Development;Python+%7C+Java+%7C+C%23+%7C+C%2B%2B+%7C+SQL;Git+%26+GitHub+Workflow;Building+clean+and+structured+software" alt="Typing SVG" />
 
-```dart
-class AhmedAdel {
-  String role = "Flutter Developer & Instructor";
-  String language = "Arabic";
-  String brand = "Learn Simply | اتعلم ببساطة";
-  List<String> skills = [
-    "Flutter UI/UX",
-    "Dart Animations",
-    "Python, Java, C++",
-    "GitHub & Copilot",
-    "Arabic Content Creation"
-    "Simplify Code"
-  ];
+<br>
+
+![Profile Views](https://komarev.com/ghpvc/?username=saeedabuhani&style=flat&color=orange&label=PROFILE+VIEWS)
+![GitHub Followers](https://img.shields.io/github/followers/saeedabuhani?style=flat&color=blue&label=FOLLOWERS)
+![GitHub Stars](https://img.shields.io/github/stars/saeedabuhani?style=flat&color=yellow&label=STARS)
+
+<br>
+
+[![GitHub](https://img.shields.io/badge/GitHub-saeedabuhani-grey?style=flat&logo=github)](https://github.com/saeedabuhani)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Saeed%20Abuhani-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/saeed-abuhani-12b55a306)
+[![Email](https://img.shields.io/badge/Email-saied442001%40gmail.com-red?style=flat&logo=gmail&logoColor=white)](mailto:saied442001@gmail.com)
+
+</div>
+
+<hr></hr>
+
+![about_me](https://img.shields.io/badge/-%F0%9F%91%A8%E2%80%8D%F0%9F%92%BB%20About%20Me-orange)
+![semicolon](https://img.shields.io/badge/-%3A-orange)
+
+```java
+// About me
+
+class About extends SoftwareEngineeringStudent {
+
+    String name = "Saeed Abuhani";
+    String role = "Software Engineering Student";
+    String college = "Sami Shamoon College of Engineering";
+
+    String[] interests = {
+        "Backend Development",
+        "Full Stack Development",
+        "Web Applications",
+        "Databases",
+        "Object-Oriented Programming",
+        "Software Architecture",
+        "Git and GitHub Workflow"
+    };
+
+    String currentFocus = "Building clean, organized, and practical software systems";
+
+    String goal = "Improve every day as a software engineer";
 }
-```
-## 🔥 Highlights
-
-- 🔥 Built a YouTube channel with **240K+ subscribers**
-- 👨‍🏫 Teaching programming in **simple Arabic** — clear, visual, and practical
-- 📚 Founder of [learrnsimply.com](https://learrnsimply.com) – an Arabic-first coding school
-- 🧩 Building **reusable Flutter components**, animations & UI kits
-- 📦 Making **clean code fun** to learn for beginners
-
----
-
-## 🧰 Tech Toolbox
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=flutter,dart,cpp,java,python,vscode,github,figma,git,bash" />
-</p>
-
----
-
-# 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ahmedlearnSimply&show_icons=true&theme=tokyonight&hide_border=true&border_radius=10" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ahmedlearnSimply&theme=tokyonight&hide_border=true&border_radius=10" width="48%" />
-</p>
-
----
-
-## 🎬 My YouTube Focus
-
-- ✅ **Flutter basics to advanced** (in Arabic)
-- ✅ **Problem-solving** with C++ & Java
-- ✅ **Real app UIs** with animations
-- ✅ Tips for **VS Code, Git**, and productivity
-- ✅ Free projects and walkthroughs
-
-▶️ Check it out: [**YouTube - Learn Simply**](https://www.youtube.com/@Learn_Simply/videos/?sub_confirmation=1)
-
----
-
-
-
-## ⚡️ Motto
-
-> **“Let’s simplify learning, one line of code at a time.”**
